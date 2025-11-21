@@ -21,6 +21,12 @@ The system will look for suspicious signals such as:
 -	Weird spikes in downloads from unknown or risky websites.
 -	Strange combinations of SDKs used by malware.
 
+The system would provide:
+-	A continuous feed of detected fake apps.
+-	An evidence pack explaining why each app is fake.
+-	Ready-to-send takedown requests for Google Play, App Store, and hosting sites.
+-	Warning pages for domains or APK links that were seized.
+
 # Technologies:-
 Python
 
