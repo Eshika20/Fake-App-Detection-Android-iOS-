@@ -28,7 +28,7 @@ The system would provide:
 -	Warning pages for domains or APK links that were seized.
 
 # Technologies:-
-Python
+-Python
 
 # Installation:-
 https://github.com/Eshika20/Fake-App-Detection-Android-iOS-.git
